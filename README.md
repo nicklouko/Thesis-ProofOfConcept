@@ -60,7 +60,7 @@ ProofOfConcept/
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/nicklouko/Thesis-ProofOfConcept
    ```
 2. Open `ProofOfConcept.sln` in Visual Studio 2022.
 3. Select configuration **Release | x64** (or **Debug | x64**).
