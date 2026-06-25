@@ -1,0 +1,30 @@
+# Build output
+x64/
+Debug/
+Release/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Build artifacts
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.log
+*.tlog
+*.lastbuildstate
+*.recipe
+*.dll
+*.exe
+
+# Precompiled headers
+*.pch
+*.gch
