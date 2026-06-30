@@ -91,7 +91,7 @@ ProofOfConcept/
 | OS | Windows 11 Pro (10.0.22631) |
 | IDE | Visual Studio 2022 |
 | C++ Version | **C++20** (`/std:c++20`) |
-| Target | Sauerbraten  |
+| Target | Sauerbraten (Cube2) — **2020 Edition (December 21, 2020)** |
 | Architecture | x64 |
 
 ## Ethical & Legal Notice
@@ -104,3 +104,18 @@ This project is developed **exclusively for academic research purposes** as part
 - **Thesis context:** The reverse engineering process documented in the thesis explores how generative AI models can accelerate tasks such as identifying data structures, locating function signatures and understanding memory layouts in compiled binaries.
 
 **Do not use this software to gain unfair advantages in online games or to violate any terms of service.**
+
+## Third-Party Licenses
+
+This project bundles [MinHook](https://github.com/TsudaKageyu/minhook) (`dependencies/include/MinHook/`, `dependencies/lib/libMinHook.x64.lib`), licensed under the BSD 2-Clause License:
+
+> Copyright (c) 2009-2017, Tsuda Kageyu. All rights reserved.
+>
+> Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+>
+> 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+> 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+>
+> THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Full license text: [`dependencies/include/MinHook/LICENSE.txt`](https://github.com/TsudaKageyu/minhook/blob/master/LICENSE.txt)
