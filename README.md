@@ -91,7 +91,7 @@ ProofOfConcept/
 | OS | Windows 11 Pro (10.0.22631) |
 | IDE | Visual Studio 2022 |
 | C++ Version | **C++20** (`/std:c++20`) |
-| Target | Sauerbraten (Cube2) — **2020 Edition (December 21, 2020)** |
+| Target | Sauerbraten (Cube2) - **2020 Edition (December 21, 2020)** |
 | Architecture | x64 |
 
 ## Ethical & Legal Notice
